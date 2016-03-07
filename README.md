@@ -2,7 +2,8 @@
 Nuovo episodio (attualmente v 1.0) walkthrough di Grezzo 2 ambientato al Dipartimento di Informatica UniVR (Ca' Vignal)!
 
 ## Installazione
-Scaricare l'espansione in ZIP e scompattarla dentro la cartella del gioco.
+Scaricare l'espansione in ZIP e scompattarla dentro la cartella del gioco; si creerà una cartella chiamata "GrezzoUnivr - master", copiare il contenuto della nuova cartella in quella del gioco. Verranno sostituiti dei file di gioco, quindi si deve acconsentire alla sostituzione.
+
 Per i più smaliziati e che sono interessati ai futuri aggiornamenti, utilizzate git e sincronizzatevi con questo repo
 
 ## Giocare
