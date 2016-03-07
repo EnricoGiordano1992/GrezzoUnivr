@@ -8,6 +8,9 @@ Per i più smaliziati e che sono interessati ai futuri aggiornamenti, utilizzate
 ## Giocare
 Aprite il gioco e selezionate "Gioca da te" e selezionare l'ultima voce nuova
 
+## About
+Per problemi/malfunzionamenti/cazzi/mazzi scrivete allo sviluppatore dell'espansione o usate le issues. Piena disponibilità, a patto di essere costruttivi. O essere grezzi, vedete voi.
+
 ## Versione attuale (v 1.0)
 - mappa completa di tutto il dipartimento
 - unico livello di difficoltà (molto difficile)
