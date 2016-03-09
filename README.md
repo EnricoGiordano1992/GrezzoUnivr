@@ -6,6 +6,12 @@ Scaricare l'espansione in ZIP e scompattarla dentro la cartella del gioco; si cr
 
 Per i più smaliziati e che sono interessati ai futuri aggiornamenti, utilizzate git e sincronizzatevi con questo repo
 
+Se non avete Grezzo 2, potete scaricarlo da qui:
+http://www.giochipenosi.it/ISO/Grezzo2FINAL.iso
+
+Se non trovate il bottone del download su questo repo, usate questo link:
+https://github.com/EnricoGiordano1992/GrezzoUnivr/archive/master.zip
+
 ## Giocare
 Aprite il gioco e selezionate "Gioca da te" e selezionare l'ultima voce nuova
 
