@@ -31,3 +31,7 @@ Per problemi/malfunzionamenti/cazzi/mazzi scrivete allo sviluppatore dell'espans
 - nessuna arma nuova (rispetto a Grezzo 2)
 - nessun personaggio nuovo (rispetto a Grezzo 2)
 - musica: Get Jinxed (League Of Legends Music https://www.youtube.com/watch?v=0nlJuwO0GDs)
+
+
+
+<meta> Grezzo 2 univr, grezzo2, univr, giochipenosi, mod, doom </meta>
