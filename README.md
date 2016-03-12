@@ -1,5 +1,5 @@
 ﻿# Grezzo 2 - Espansione Univr
-Nuovo episodio (attualmente v 1.1) walkthrough di Grezzo 2 ambientato al Dipartimento di Informatica UniVR (Ca' Vignal)!
+Nuovo episodio (attualmente v 1.2) walkthrough di Grezzo 2 ambientato al Dipartimento di Informatica UniVR (Ca' Vignal)!
 
 ## Installazione
 Scaricare l'espansione in ZIP e scompattarla dentro la cartella del gioco; si creerà una cartella chiamata "GrezzoUnivr - master", copiare il contenuto della nuova cartella in quella del gioco. Verranno sostituiti dei file di gioco, quindi si deve acconsentire alla sostituzione.
@@ -19,7 +19,12 @@ Aprite il gioco e selezionate "Gioca da te" e selezionare l'ultima voce nuova
 Per problemi/malfunzionamenti/cazzi/mazzi scrivete allo sviluppatore dell'espansione o usate le issues. Piena disponibilità, a patto di essere costruttivi. O essere grezzi, vedete voi.
 
 
-## Versione attuale v 1.1
+## Versione attuale v 1.2
+- ottimizzato per multiplayer
+- bugfix di robe varie
+- aggiunte cose qua e là
+
+## v 1.1
 - muri più alti per evitare crocifissi e armi random
 - corretti bug grafici
 
