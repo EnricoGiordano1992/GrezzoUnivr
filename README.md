@@ -15,6 +15,17 @@ https://github.com/EnricoGiordano1992/GrezzoUnivr/archive/master.zip
 ## Giocare
 Aprite il gioco e selezionate "Gioca da te" e selezionare l'ultima voce nuova
 
+## Anteprime
+
+![alt tag](https://scontent-frt3-1.xx.fbcdn.net/hphotos-xap1/t31.0-8/1933625_1117659308253960_945538293444841166_o.jpg)
+![alt tag](https://scontent-frt3-1.xx.fbcdn.net/hphotos-xpf1/t31.0-8/12829147_1117659448253946_4081978663514839158_o.jpg)
+![alt tag](https://scontent-frt3-1.xx.fbcdn.net/hphotos-xpf1/t31.0-8/11244916_1117659691587255_8318309949213111702_o.jpg)
+
+![alt tag](https://scontent-frt3-1.xx.fbcdn.net/hphotos-xft1/t31.0-8/12829201_1117659834920574_394678493897749699_o.jpg)
+![alt tag](https://scontent-frt3-1.xx.fbcdn.net/hphotos-xlt1/t31.0-8/12240936_1117660021587222_1719948850887109935_o.jpg)
+![alt tag](https://scontent-frt3-1.xx.fbcdn.net/hphotos-xtp1/t31.0-8/1277023_1117660244920533_4084957219853653815_o.jpg)
+
+
 ## About
 Per problemi/malfunzionamenti/cazzi/mazzi scrivete allo sviluppatore dell'espansione o usate le issues. Piena disponibilità, a patto di essere costruttivi. O essere grezzi, vedete voi.
 
