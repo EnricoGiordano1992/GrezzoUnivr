@@ -1,6 +1,8 @@
 ﻿# Grezzo 2 - Espansione Univr
 Nuovo episodio (attualmente v 1.2) walkthrough di Grezzo 2 ambientato al Dipartimento di Informatica UniVR (Ca' Vignal)!
 
+[![gitcheese.com](https://s3.amazonaws.com/gitcheese-ui-master/images/badge.svg)](https://www.gitcheese.com/donate/users/3462634/repos/53315956)
+
 ## Installazione
 Scaricare l'espansione in ZIP e scompattarla dentro la cartella del gioco; si creerà una cartella chiamata "GrezzoUnivr - master", copiare il contenuto della nuova cartella in quella del gioco. Verranno sostituiti dei file di gioco, quindi si deve acconsentire alla sostituzione.
 
